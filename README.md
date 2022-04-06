@@ -1,4 +1,4 @@
-<strong>Hi, I am Sonam Oraon a Front-end developer on Work </strong>
+<strong>Hi, I am Sonam Oraon a Front-end developer </strong>
 
   =>🌱 I’m currently learning <strong>React.Js</strong> and front end development.
 
